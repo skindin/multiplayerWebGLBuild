@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Trench Game (V2)-1.0";
 const contentToCache = [
-    "Build/playerBuild.loader.js",
-    "Build/playerBuild.framework.js",
-    "Build/playerBuild.data",
-    "Build/playerBuild.wasm",
+    "Build/webglBuild.loader.js",
+    "Build/webglBuild.framework.js",
+    "Build/webglBuild.data",
+    "Build/webglBuild.wasm",
     "TemplateData/style.css"
 
 ];
